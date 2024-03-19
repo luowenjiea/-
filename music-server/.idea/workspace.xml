@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84ca4a9a-be20-453c-9b1e-3db86fa15ffa" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vets.getSpecials()</find>
+      <find>com.mapper</find>
+      <find>example.demo.domain</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>model</replace>
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/workspace/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\workspace\apache-maven-3.6.1\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-29" />
+    <option name="y" value="34" />
+    <option name="width" value="956" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectId" id="20exLwOTnzIAfRi3SGbnoFdhzMT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20344828" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\w20151231\2022\03\music\music-server\src\main\java\com\util" />
+      <recent name="F:\sophialex\2022\12\syjlwz\syjlwz-server\src\main\java\com\util" />
+      <recent name="F:\sophialex\2022\12\syjlwz\syjlwz-server\src\main\resources\mybatis\mappers" />
+      <recent name="F:\sophialex\2022\11\syjlwz\syjlwz-server\src\main\java\com\util" />
+      <recent name="F:\sophialex\2022\11\syjlwz\syjlwz-server\src\main\java\com\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="music-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MusicApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ca4a9a-be20-453c-9b1e-3db86fa15ffa" name="Default" comment="" />
+      <created>1636193609017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636193609017</updated>
+      <workItem from="1636193612426" duration="2857000" />
+      <workItem from="1636267451071" duration="4395000" />
+      <workItem from="1636379411875" duration="3117000" />
+      <workItem from="1636418805797" duration="13336000" />
+      <workItem from="1636458759276" duration="616000" />
+      <workItem from="1637033212729" duration="11147000" />
+      <workItem from="1637064885790" duration="6325000" />
+      <workItem from="1637109657314" duration="1821000" />
+      <workItem from="1638167121473" duration="13020000" />
+      <workItem from="1638234484756" duration="20384000" />
+      <workItem from="1638321105331" duration="14334000" />
+      <workItem from="1638602509059" duration="787000" />
+      <workItem from="1639984060788" duration="2804000" />
+      <workItem from="1640050070131" duration="12185000" />
+      <workItem from="1640137452881" duration="8564000" />
+      <workItem from="1640443494466" duration="429000" />
+      <workItem from="1646223446607" duration="9581000" />
+      <workItem from="1646269836449" duration="2822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640051929121">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1640051929121" />
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1640159993592">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1640159993592" />
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638167262863">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1638167262863" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1637042291831">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1637042291831" />
+    <state width="1556" height="230" key="GridCell.Tab.0.bottom" timestamp="1640160100013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1640160100013" />
+    <state width="1556" height="230" key="GridCell.Tab.0.center" timestamp="1640160100013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1640160100013" />
+    <state width="1556" height="230" key="GridCell.Tab.0.left" timestamp="1640160100012">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1640160100012" />
+    <state width="1556" height="230" key="GridCell.Tab.0.right" timestamp="1640160100013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1640160100013" />
+    <state width="1556" height="230" key="GridCell.Tab.1.bottom" timestamp="1640160100013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1640160100013" />
+    <state width="1556" height="230" key="GridCell.Tab.1.center" timestamp="1640160100013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1640160100013" />
+    <state width="1556" height="230" key="GridCell.Tab.1.left" timestamp="1640160100013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1640160100013" />
+    <state width="1556" height="230" key="GridCell.Tab.1.right" timestamp="1640160100013">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1640160100013" />
+    <state x="330" y="84" key="Maven.ArtifactSearchDialog" timestamp="1640070923336">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="84" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1640070923336" />
+    <state x="211" y="7" key="SettingsEditor" timestamp="1640078170560">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="211" y="7" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1640078170560" />
+    <state x="429" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640078168341">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="429" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1640078168341" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1640070120406">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1640070120406" />
+  </component>
+</project>
